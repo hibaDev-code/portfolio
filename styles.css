@@ -5,16 +5,16 @@
 }
 
 :root {
-    --primary: #3f5165;
-    --secondary: #92c1e1;
-    --accent: #e74c3c;
-    --light: #6e9da9;
-    --dark: #596a7a;
-    --text: #333;
-    --text-light: #7f8c8d;
-    --background: #f9f2d8;
-    --card-bg: #e6f7ff;
-}
+    --primary: #2c3e50;       /* Bleu marine profond */
+    --secondary: #34495e;     /* Bleu ardoise */
+    --accent: #7f8c8d;        /* Gris bleuté */
+    --light: #ecf0f1;         /* Gris très clair */
+    --dark: #2c3e50;          /* Bleu marine */
+    --text: #2c3e50;          /* Texte foncé */
+    --text-light: #7f8c8d;    /* Texte secondaire */
+    --background: #f8f9fa;    /* Fond très léger */
+    --card-bg: #ffffff;       /* Blanc pur pour les cartes */
+    --gold: #d4af37;  }        /* Or élégant pour les accents */
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
